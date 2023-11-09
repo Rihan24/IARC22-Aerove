@@ -1,12 +1,13 @@
 # IARC 2021
 
-Click on the below image to view the simulation video
+Click on the below image to view the IARC 2021 simulation round video
 <!-- https://www.youtube.com/watch?v=Fl70FG0QKSU -->
 <div align="left">
       <a href="https://www.youtube.com/watch?v=Fl70FG0QKSU">
          <img src="https://img.youtube.com/vi/Fl70FG0QKSU/0.jpg" style="width:60%;">
       </a>
 </div>
+<br> <br>
 
 <img src="/results/iarc_mast.gif" width="30%" height="30%"/>  <img src="/results/iarc_mast_real.gif" width="30%" height="30%"/><br>
 <img src="/results/replacement_ros.gif" width="60%"/>
