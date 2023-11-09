@@ -6,7 +6,8 @@ Click on the below image to view the IARC 2022 Hardware round video
          <img src="\results\drone pic.jpeg" style="width:60%;">
       </a>
 </div>
-
+<br>
+<img src="/results/wp_section_wp.gif" width="30%" height="30%"/>  <img src="/results/lap tracking fig.png" width="30%" height="30%"/><br>
 
 <img src="/results/iarc_mast.gif" width="30%" height="30%"/>  <img src="/results/iarc_mast_real.gif" width="30%" height="30%"/><br>
 <img src="/results/replacement_ros.gif" width="60%"/>
