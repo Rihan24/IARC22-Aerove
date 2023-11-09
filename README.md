@@ -1,5 +1,4 @@
 # IARC 2022
-IARC 2022 Hardware round submission video : 
 Click on the below image to view the IARC 2022 Hardware round video
 <!-- https://www.youtube.com/watch?v=Fl70FG0QKSU -->
 <div align="left">
